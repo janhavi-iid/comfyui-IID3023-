@@ -46,6 +46,8 @@ CHECKPOINT_MODELS=(
     "https://civitai.com/api/download/models/93208?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     #Disney Pixar Cartoon Type A
     "https://civitai.com/api/download/models/69832?type=Model&format=SafeTensor&size=pruned&fp=fp16"
+    #Dark Sushi 2.5D
+    "https://civitai.com/api/download/models/141866?type=Model&format=SafeTensor&size=pruned&fp=fp16"
 )
 
 UNET_MODELS=(
