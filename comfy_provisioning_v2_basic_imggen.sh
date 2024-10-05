@@ -42,6 +42,10 @@ CHECKPOINT_MODELS=(
     "https://civitai.com/api/download/models/130072?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     #MeinaMix
     "https://civitai.com/api/download/models/119057?type=Model&format=SafeTensor&size=pruned&fp=fp16"
+    #Dark Sushi Mix
+    "https://civitai.com/api/download/models/93208?type=Model&format=SafeTensor&size=pruned&fp=fp16"
+    #Disney Pixar Cartoon Type A
+    "https://civitai.com/api/download/models/69832?type=Model&format=SafeTensor&size=pruned&fp=fp16"
 )
 
 UNET_MODELS=(
