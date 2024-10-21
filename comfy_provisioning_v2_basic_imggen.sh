@@ -25,8 +25,6 @@ NODES=(
     "https://github.com/Derfuu/Derfuu_ComfyUI_ModdedNodes"
     "https://github.com/WASasquatch/was-node-suite-comfyui"
     "https://github.com/cubiq/ComfyUI_IPAdapter_plus"
-    #"https://github.com/ltdrdata/ComfyUI-Impact-Pack"
-    
 )
 
 CHECKPOINT_MODELS=(
@@ -38,16 +36,12 @@ CHECKPOINT_MODELS=(
     "https://civitai.com/api/download/models/125771?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     #dreamshaper8
     "https://civitai.com/api/download/models/128713?type=Model&format=SafeTensor&size=pruned&fp=fp16"
-    #realistic_vision
-    "https://civitai.com/api/download/models/130072?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     #MeinaMix
-    "https://civitai.com/api/download/models/119057?type=Model&format=SafeTensor&size=pruned&fp=fp16"
-    #Dark Sushi Mix
+    "https://civitai.com/api/download/models/948574?type=Model&format=SafeTensor&size=pruned&fp=fp16"
+    #Dark sushi mix sd1
     "https://civitai.com/api/download/models/93208?type=Model&format=SafeTensor&size=pruned&fp=fp16"
-    #Disney Pixar Cartoon Type A
-    "https://civitai.com/api/download/models/69832?type=Model&format=SafeTensor&size=pruned&fp=fp16"
-    #Dark Sushi 2.5D
-    "https://civitai.com/api/download/models/141866?type=Model&format=SafeTensor&size=pruned&fp=fp16"
+    #realcartoon3d sd1
+    "https://civitai.com/api/download/models/637156?type=Model&format=SafeTensor&size=pruned&fp=fp16"
 )
 
 UNET_MODELS=(
@@ -62,6 +56,7 @@ VAE_MODELS=(
     "https://huggingface.co/stabilityai/sd-vae-ft-ema-original/resolve/main/vae-ft-ema-560000-ema-pruned.safetensors"
     "https://huggingface.co/stabilityai/sd-vae-ft-mse-original/resolve/main/vae-ft-mse-840000-ema-pruned.safetensors"
     "https://huggingface.co/stabilityai/sdxl-vae/resolve/main/sdxl_vae.safetensors"
+    "https://civitai.com/api/download/models/948574?type=VAE&format=SafeTensor"
 )
 
 ESRGAN_MODELS=(
