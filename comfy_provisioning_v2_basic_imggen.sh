@@ -38,8 +38,10 @@ CHECKPOINT_MODELS=(
     "https://civitai.com/api/download/models/125771?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     #dreamshaper8
     "https://civitai.com/api/download/models/128713?type=Model&format=SafeTensor&size=pruned&fp=fp16"
-    #MeinaMix "https://civitai.com/api/download/models/948574?type=Model&format=SafeTensor&size=pruned&fp=fp16"
-    #Dark sushi mix sd1 "https://civitai.com/api/download/models/93208?type=Model&format=SafeTensor&size=pruned&fp=fp16"
+    #MeinaMix 
+    "https://civitai.com/api/download/models/948574?type=Model&format=SafeTensor&size=pruned&fp=fp16"
+    #Dark sushi mix sd1 
+    "https://civitai.com/api/download/models/93208?type=Model&format=SafeTensor&size=pruned&fp=fp16"
    
 )
 
@@ -49,6 +51,10 @@ UNET_MODELS=(
 
 LORA_MODELS=(
     #"https://civitai.com/api/download/models/16576"
+    #Watercolor painting https://civitai.com/models/749060/watercolor-painting trigger:watercolor painting
+    "https://civitai.com/api/download/models/887624?type=Model&format=SafeTensor"
+    #FLUXRetroSci https://civitai.com/models/840221/fluxretrosci trigger:RetroSci style
+    "https://civitai.com/api/download/models/971769?type=Model&format=SafeTensor"
 )
 
 VAE_MODELS=(
