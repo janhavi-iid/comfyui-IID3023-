@@ -55,6 +55,10 @@ LORA_MODELS=(
     "https://civitai.com/api/download/models/887624?type=Model&format=SafeTensor"
     #FLUXRetroSci https://civitai.com/models/840221/fluxretrosci trigger:RetroSci style
     "https://civitai.com/api/download/models/971769?type=Model&format=SafeTensor"
+    #Intricate Details https://civitai.com/models/159007/intricate-details trigger:intricatedetails
+    "https://civitai.com/api/download/models/178774?type=Model&format=SafeTensor"
+    #Art Nouveau Style https://civitai.com/models/182980?modelVersionId=875868 trigger:art nouveau, alphonse mucha, ivan bilibin
+    "https://civitai.com/api/download/models/875868?type=Model&format=SafeTensor"
 )
 
 VAE_MODELS=(
